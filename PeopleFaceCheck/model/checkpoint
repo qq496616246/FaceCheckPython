@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\pythonworkplace\\PeopleFaceCheck/model/train.model.ckpt-600"
+all_model_checkpoint_paths: "D:\\pythonworkplace\\PeopleFaceCheck/model/train.model.ckpt-600"
